@@ -1,0 +1,24 @@
+.homepage__body{
+    /* margin: auto; */
+    /* padding: 15px; */
+    /* align-content: center; */
+    margin-top: 80px;
+}
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: gainsboro;
+    font-weight: 600;
+    font-size: 18px;
+}
+.tag-card{
+    margin: 10px 0 0 20px;
+    color: #806a78;
+}
+.tourName{
+    font-size: 18px;
+    color: #806a78;
+    margin: 0 0 0 4px;
+    font-weight: 600;
+}
